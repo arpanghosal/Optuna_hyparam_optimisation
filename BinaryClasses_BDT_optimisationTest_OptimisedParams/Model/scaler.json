@@ -1,0 +1,32 @@
+{
+    "diph_M": {
+        "Offset": 7.538119964605371e-06,
+        "Option": "minmax",
+        "Scale": 3.543974675898914e-07,
+        "Type": null
+    },
+    "dr_lep_ph1": {
+        "Offset": -0.07608592146940736,
+        "Option": "minmax",
+        "Scale": 0.1902036369819566,
+        "Type": null
+    },
+    "ph_conversion_type[:,0]": {
+        "Offset": 0.0,
+        "Option": "minmax",
+        "Scale": 0.2,
+        "Type": null
+    },
+    "ph_conversion_type[:,1]": {
+        "Offset": 0.0,
+        "Option": "minmax",
+        "Scale": 0.2,
+        "Type": null
+    },
+    "ph_eta[:,1]": {
+        "Offset": 0.5000452400686615,
+        "Option": "minmax",
+        "Scale": 0.20851714389801954,
+        "Type": null
+    }
+}
